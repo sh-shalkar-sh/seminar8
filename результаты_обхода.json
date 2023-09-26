@@ -1,0 +1,4730 @@
+{
+    "total_size": 13409331,
+    "objects": [
+        {
+            "name": ".idea",
+            "type": "directory",
+            "size": 3378
+        },
+        {
+            "name": ".gitignore",
+            "type": "file",
+            "size": 50
+        },
+        {
+            "name": "inspectionProfiles",
+            "type": "directory",
+            "size": 174
+        },
+        {
+            "name": "profiles_settings.xml",
+            "type": "file",
+            "size": 174
+        },
+        {
+            "name": "misc.xml",
+            "type": "file",
+            "size": 200
+        },
+        {
+            "name": "modules.xml",
+            "type": "file",
+            "size": 275
+        },
+        {
+            "name": "seminar8.iml",
+            "type": "file",
+            "size": 361
+        },
+        {
+            "name": "workspace.xml",
+            "type": "file",
+            "size": 2318
+        },
+        {
+            "name": "main.py",
+            "type": "file",
+            "size": 544
+        },
+        {
+            "name": "task.py",
+            "type": "file",
+            "size": 2381
+        },
+        {
+            "name": "venv",
+            "type": "directory",
+            "size": 13403028
+        },
+        {
+            "name": ".gitignore",
+            "type": "file",
+            "size": 42
+        },
+        {
+            "name": "Include",
+            "type": "directory",
+            "size": 0
+        },
+        {
+            "name": "Lib",
+            "type": "directory",
+            "size": 11992149
+        },
+        {
+            "name": "site-packages",
+            "type": "directory",
+            "size": 11992149
+        },
+        {
+            "name": "distutils-precedence.pth",
+            "type": "file",
+            "size": 151
+        },
+        {
+            "name": "pip",
+            "type": "directory",
+            "size": 6847400
+        },
+        {
+            "name": "py.typed",
+            "type": "file",
+            "size": 286
+        },
+        {
+            "name": "_internal",
+            "type": "directory",
+            "size": 1035611
+        },
+        {
+            "name": "build_env.py",
+            "type": "file",
+            "size": 10234
+        },
+        {
+            "name": "cache.py",
+            "type": "file",
+            "size": 10734
+        },
+        {
+            "name": "cli",
+            "type": "directory",
+            "size": 87806
+        },
+        {
+            "name": "autocompletion.py",
+            "type": "file",
+            "size": 6676
+        },
+        {
+            "name": "base_command.py",
+            "type": "file",
+            "size": 7842
+        },
+        {
+            "name": "cmdoptions.py",
+            "type": "file",
+            "size": 29381
+        },
+        {
+            "name": "command_context.py",
+            "type": "file",
+            "size": 774
+        },
+        {
+            "name": "main.py",
+            "type": "file",
+            "size": 2472
+        },
+        {
+            "name": "main_parser.py",
+            "type": "file",
+            "size": 4338
+        },
+        {
+            "name": "parser.py",
+            "type": "file",
+            "size": 10817
+        },
+        {
+            "name": "progress_bars.py",
+            "type": "file",
+            "size": 1968
+        },
+        {
+            "name": "req_command.py",
+            "type": "file",
+            "size": 18172
+        },
+        {
+            "name": "spinners.py",
+            "type": "file",
+            "size": 5118
+        },
+        {
+            "name": "status_codes.py",
+            "type": "file",
+            "size": 116
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 132
+        },
+        {
+            "name": "commands",
+            "type": "directory",
+            "size": 119848
+        },
+        {
+            "name": "cache.py",
+            "type": "file",
+            "size": 7582
+        },
+        {
+            "name": "check.py",
+            "type": "file",
+            "size": 1685
+        },
+        {
+            "name": "completion.py",
+            "type": "file",
+            "size": 4129
+        },
+        {
+            "name": "configuration.py",
+            "type": "file",
+            "size": 9815
+        },
+        {
+            "name": "debug.py",
+            "type": "file",
+            "size": 6573
+        },
+        {
+            "name": "download.py",
+            "type": "file",
+            "size": 5289
+        },
+        {
+            "name": "freeze.py",
+            "type": "file",
+            "size": 2951
+        },
+        {
+            "name": "hash.py",
+            "type": "file",
+            "size": 1703
+        },
+        {
+            "name": "help.py",
+            "type": "file",
+            "size": 1132
+        },
+        {
+            "name": "index.py",
+            "type": "file",
+            "size": 4762
+        },
+        {
+            "name": "inspect.py",
+            "type": "file",
+            "size": 3374
+        },
+        {
+            "name": "install.py",
+            "type": "file",
+            "size": 31726
+        },
+        {
+            "name": "list.py",
+            "type": "file",
+            "size": 12343
+        },
+        {
+            "name": "search.py",
+            "type": "file",
+            "size": 5697
+        },
+        {
+            "name": "show.py",
+            "type": "file",
+            "size": 6129
+        },
+        {
+            "name": "uninstall.py",
+            "type": "file",
+            "size": 3680
+        },
+        {
+            "name": "wheel.py",
+            "type": "file",
+            "size": 7396
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 3882
+        },
+        {
+            "name": "configuration.py",
+            "type": "file",
+            "size": 13529
+        },
+        {
+            "name": "distributions",
+            "type": "directory",
+            "size": 10466
+        },
+        {
+            "name": "base.py",
+            "type": "file",
+            "size": 1221
+        },
+        {
+            "name": "installed.py",
+            "type": "file",
+            "size": 729
+        },
+        {
+            "name": "sdist.py",
+            "type": "file",
+            "size": 6494
+        },
+        {
+            "name": "wheel.py",
+            "type": "file",
+            "size": 1164
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 858
+        },
+        {
+            "name": "exceptions.py",
+            "type": "file",
+            "size": 20942
+        },
+        {
+            "name": "index",
+            "type": "directory",
+            "size": 60686
+        },
+        {
+            "name": "collector.py",
+            "type": "file",
+            "size": 16503
+        },
+        {
+            "name": "package_finder.py",
+            "type": "file",
+            "size": 37596
+        },
+        {
+            "name": "sources.py",
+            "type": "file",
+            "size": 6557
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 30
+        },
+        {
+            "name": "locations",
+            "type": "directory",
+            "size": 34294
+        },
+        {
+            "name": "base.py",
+            "type": "file",
+            "size": 2573
+        },
+        {
+            "name": "_distutils.py",
+            "type": "file",
+            "size": 6302
+        },
+        {
+            "name": "_sysconfig.py",
+            "type": "file",
+            "size": 7867
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 17552
+        },
+        {
+            "name": "main.py",
+            "type": "file",
+            "size": 340
+        },
+        {
+            "name": "metadata",
+            "type": "directory",
+            "size": 59552
+        },
+        {
+            "name": "base.py",
+            "type": "file",
+            "size": 25277
+        },
+        {
+            "name": "importlib",
+            "type": "directory",
+            "size": 17627
+        },
+        {
+            "name": "_compat.py",
+            "type": "file",
+            "size": 1882
+        },
+        {
+            "name": "_dists.py",
+            "type": "file",
+            "size": 8181
+        },
+        {
+            "name": "_envs.py",
+            "type": "file",
+            "size": 7457
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 107
+        },
+        {
+            "name": "pkg_resources.py",
+            "type": "file",
+            "size": 9773
+        },
+        {
+            "name": "_json.py",
+            "type": "file",
+            "size": 2595
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 4280
+        },
+        {
+            "name": "models",
+            "type": "directory",
+            "size": 45927
+        },
+        {
+            "name": "candidate.py",
+            "type": "file",
+            "size": 990
+        },
+        {
+            "name": "direct_url.py",
+            "type": "file",
+            "size": 5877
+        },
+        {
+            "name": "format_control.py",
+            "type": "file",
+            "size": 2520
+        },
+        {
+            "name": "index.py",
+            "type": "file",
+            "size": 1030
+        },
+        {
+            "name": "installation_report.py",
+            "type": "file",
+            "size": 2617
+        },
+        {
+            "name": "link.py",
+            "type": "file",
+            "size": 18083
+        },
+        {
+            "name": "scheme.py",
+            "type": "file",
+            "size": 738
+        },
+        {
+            "name": "search_scope.py",
+            "type": "file",
+            "size": 4644
+        },
+        {
+            "name": "selection_prefs.py",
+            "type": "file",
+            "size": 1907
+        },
+        {
+            "name": "target_python.py",
+            "type": "file",
+            "size": 3858
+        },
+        {
+            "name": "wheel.py",
+            "type": "file",
+            "size": 3600
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 63
+        },
+        {
+            "name": "network",
+            "type": "directory",
+            "size": 52426
+        },
+        {
+            "name": "auth.py",
+            "type": "file",
+            "size": 12190
+        },
+        {
+            "name": "cache.py",
+            "type": "file",
+            "size": 2145
+        },
+        {
+            "name": "download.py",
+            "type": "file",
+            "size": 6096
+        },
+        {
+            "name": "lazy_wheel.py",
+            "type": "file",
+            "size": 7638
+        },
+        {
+            "name": "session.py",
+            "type": "file",
+            "size": 18443
+        },
+        {
+            "name": "utils.py",
+            "type": "file",
+            "size": 4073
+        },
+        {
+            "name": "xmlrpc.py",
+            "type": "file",
+            "size": 1791
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 50
+        },
+        {
+            "name": "operations",
+            "type": "directory",
+            "size": 87624
+        },
+        {
+            "name": "build",
+            "type": "directory",
+            "size": 14723
+        },
+        {
+            "name": "build_tracker.py",
+            "type": "file",
+            "size": 4133
+        },
+        {
+            "name": "metadata.py",
+            "type": "file",
+            "size": 1404
+        },
+        {
+            "name": "metadata_editable.py",
+            "type": "file",
+            "size": 1456
+        },
+        {
+            "name": "metadata_legacy.py",
+            "type": "file",
+            "size": 2198
+        },
+        {
+            "name": "wheel.py",
+            "type": "file",
+            "size": 1063
+        },
+        {
+            "name": "wheel_editable.py",
+            "type": "file",
+            "size": 1405
+        },
+        {
+            "name": "wheel_legacy.py",
+            "type": "file",
+            "size": 3064
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "check.py",
+            "type": "file",
+            "size": 5109
+        },
+        {
+            "name": "freeze.py",
+            "type": "file",
+            "size": 9784
+        },
+        {
+            "name": "install",
+            "type": "directory",
+            "size": 32917
+        },
+        {
+            "name": "editable_legacy.py",
+            "type": "file",
+            "size": 1354
+        },
+        {
+            "name": "legacy.py",
+            "type": "file",
+            "size": 4105
+        },
+        {
+            "name": "wheel.py",
+            "type": "file",
+            "size": 27407
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 51
+        },
+        {
+            "name": "prepare.py",
+            "type": "file",
+            "size": 25091
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "pyproject.py",
+            "type": "file",
+            "size": 7074
+        },
+        {
+            "name": "req",
+            "type": "directory",
+            "size": 99567
+        },
+        {
+            "name": "constructors.py",
+            "type": "file",
+            "size": 16611
+        },
+        {
+            "name": "req_file.py",
+            "type": "file",
+            "size": 17646
+        },
+        {
+            "name": "req_install.py",
+            "type": "file",
+            "size": 35600
+        },
+        {
+            "name": "req_set.py",
+            "type": "file",
+            "size": 2858
+        },
+        {
+            "name": "req_uninstall.py",
+            "type": "file",
+            "size": 24045
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 2807
+        },
+        {
+            "name": "resolution",
+            "type": "directory",
+            "size": 111906
+        },
+        {
+            "name": "base.py",
+            "type": "file",
+            "size": 583
+        },
+        {
+            "name": "legacy",
+            "type": "directory",
+            "size": 24129
+        },
+        {
+            "name": "resolver.py",
+            "type": "file",
+            "size": 24129
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "resolvelib",
+            "type": "directory",
+            "size": 87194
+        },
+        {
+            "name": "base.py",
+            "type": "file",
+            "size": 5220
+        },
+        {
+            "name": "candidates.py",
+            "type": "file",
+            "size": 18963
+        },
+        {
+            "name": "factory.py",
+            "type": "file",
+            "size": 27878
+        },
+        {
+            "name": "found_candidates.py",
+            "type": "file",
+            "size": 5705
+        },
+        {
+            "name": "provider.py",
+            "type": "file",
+            "size": 9914
+        },
+        {
+            "name": "reporter.py",
+            "type": "file",
+            "size": 2526
+        },
+        {
+            "name": "requirements.py",
+            "type": "file",
+            "size": 5455
+        },
+        {
+            "name": "resolver.py",
+            "type": "file",
+            "size": 11533
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "self_outdated_check.py",
+            "type": "file",
+            "size": 8020
+        },
+        {
+            "name": "utils",
+            "type": "directory",
+            "size": 118977
+        },
+        {
+            "name": "appdirs.py",
+            "type": "file",
+            "size": 1665
+        },
+        {
+            "name": "compat.py",
+            "type": "file",
+            "size": 1884
+        },
+        {
+            "name": "compatibility_tags.py",
+            "type": "file",
+            "size": 5377
+        },
+        {
+            "name": "datetime.py",
+            "type": "file",
+            "size": 242
+        },
+        {
+            "name": "deprecation.py",
+            "type": "file",
+            "size": 5764
+        },
+        {
+            "name": "direct_url_helpers.py",
+            "type": "file",
+            "size": 3206
+        },
+        {
+            "name": "distutils_args.py",
+            "type": "file",
+            "size": 1115
+        },
+        {
+            "name": "egg_link.py",
+            "type": "file",
+            "size": 2203
+        },
+        {
+            "name": "encoding.py",
+            "type": "file",
+            "size": 1169
+        },
+        {
+            "name": "entrypoints.py",
+            "type": "file",
+            "size": 3064
+        },
+        {
+            "name": "filesystem.py",
+            "type": "file",
+            "size": 5122
+        },
+        {
+            "name": "filetypes.py",
+            "type": "file",
+            "size": 716
+        },
+        {
+            "name": "glibc.py",
+            "type": "file",
+            "size": 3110
+        },
+        {
+            "name": "hashes.py",
+            "type": "file",
+            "size": 4831
+        },
+        {
+            "name": "inject_securetransport.py",
+            "type": "file",
+            "size": 795
+        },
+        {
+            "name": "logging.py",
+            "type": "file",
+            "size": 11632
+        },
+        {
+            "name": "misc.py",
+            "type": "file",
+            "size": 21617
+        },
+        {
+            "name": "models.py",
+            "type": "file",
+            "size": 1193
+        },
+        {
+            "name": "packaging.py",
+            "type": "file",
+            "size": 2108
+        },
+        {
+            "name": "setuptools_build.py",
+            "type": "file",
+            "size": 5662
+        },
+        {
+            "name": "subprocess.py",
+            "type": "file",
+            "size": 9197
+        },
+        {
+            "name": "temp_dir.py",
+            "type": "file",
+            "size": 7702
+        },
+        {
+            "name": "unpacking.py",
+            "type": "file",
+            "size": 8821
+        },
+        {
+            "name": "urls.py",
+            "type": "file",
+            "size": 1759
+        },
+        {
+            "name": "virtualenv.py",
+            "type": "file",
+            "size": 3459
+        },
+        {
+            "name": "wheel.py",
+            "type": "file",
+            "size": 4549
+        },
+        {
+            "name": "_log.py",
+            "type": "file",
+            "size": 1015
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "vcs",
+            "type": "directory",
+            "size": 62007
+        },
+        {
+            "name": "bazaar.py",
+            "type": "file",
+            "size": 3518
+        },
+        {
+            "name": "git.py",
+            "type": "file",
+            "size": 18116
+        },
+        {
+            "name": "mercurial.py",
+            "type": "file",
+            "size": 5238
+        },
+        {
+            "name": "subversion.py",
+            "type": "file",
+            "size": 11728
+        },
+        {
+            "name": "versioncontrol.py",
+            "type": "file",
+            "size": 22811
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 596
+        },
+        {
+            "name": "wheel_builder.py",
+            "type": "file",
+            "size": 13079
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 573
+        },
+        {
+            "name": "_vendor",
+            "type": "directory",
+            "size": 5808504
+        },
+        {
+            "name": "cachecontrol",
+            "type": "directory",
+            "size": 48131
+        },
+        {
+            "name": "adapter.py",
+            "type": "file",
+            "size": 5033
+        },
+        {
+            "name": "cache.py",
+            "type": "file",
+            "size": 1535
+        },
+        {
+            "name": "caches",
+            "type": "directory",
+            "size": 6546
+        },
+        {
+            "name": "file_cache.py",
+            "type": "file",
+            "size": 5271
+        },
+        {
+            "name": "redis_cache.py",
+            "type": "file",
+            "size": 1033
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 242
+        },
+        {
+            "name": "compat.py",
+            "type": "file",
+            "size": 778
+        },
+        {
+            "name": "controller.py",
+            "type": "file",
+            "size": 16416
+        },
+        {
+            "name": "filewrapper.py",
+            "type": "file",
+            "size": 3946
+        },
+        {
+            "name": "heuristics.py",
+            "type": "file",
+            "size": 4154
+        },
+        {
+            "name": "serialize.py",
+            "type": "file",
+            "size": 7105
+        },
+        {
+            "name": "wrapper.py",
+            "type": "file",
+            "size": 774
+        },
+        {
+            "name": "_cmd.py",
+            "type": "file",
+            "size": 1379
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 465
+        },
+        {
+            "name": "certifi",
+            "type": "directory",
+            "size": 290998
+        },
+        {
+            "name": "cacert.pem",
+            "type": "file",
+            "size": 286370
+        },
+        {
+            "name": "core.py",
+            "type": "file",
+            "size": 4279
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 94
+        },
+        {
+            "name": "__main__.py",
+            "type": "file",
+            "size": 255
+        },
+        {
+            "name": "chardet",
+            "type": "directory",
+            "size": 1092504
+        },
+        {
+            "name": "big5freq.py",
+            "type": "file",
+            "size": 31274
+        },
+        {
+            "name": "big5prober.py",
+            "type": "file",
+            "size": 1741
+        },
+        {
+            "name": "chardistribution.py",
+            "type": "file",
+            "size": 9608
+        },
+        {
+            "name": "charsetgroupprober.py",
+            "type": "file",
+            "size": 3817
+        },
+        {
+            "name": "charsetprober.py",
+            "type": "file",
+            "size": 4801
+        },
+        {
+            "name": "cli",
+            "type": "directory",
+            "size": 2406
+        },
+        {
+            "name": "chardetect.py",
+            "type": "file",
+            "size": 2406
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "codingstatemachine.py",
+            "type": "file",
+            "size": 3559
+        },
+        {
+            "name": "cp949prober.py",
+            "type": "file",
+            "size": 1838
+        },
+        {
+            "name": "enums.py",
+            "type": "file",
+            "size": 1619
+        },
+        {
+            "name": "escprober.py",
+            "type": "file",
+            "size": 3864
+        },
+        {
+            "name": "escsm.py",
+            "type": "file",
+            "size": 12021
+        },
+        {
+            "name": "eucjpprober.py",
+            "type": "file",
+            "size": 3676
+        },
+        {
+            "name": "euckrfreq.py",
+            "type": "file",
+            "size": 13566
+        },
+        {
+            "name": "euckrprober.py",
+            "type": "file",
+            "size": 1731
+        },
+        {
+            "name": "euctwfreq.py",
+            "type": "file",
+            "size": 36913
+        },
+        {
+            "name": "euctwprober.py",
+            "type": "file",
+            "size": 1731
+        },
+        {
+            "name": "gb2312freq.py",
+            "type": "file",
+            "size": 20735
+        },
+        {
+            "name": "gb2312prober.py",
+            "type": "file",
+            "size": 1737
+        },
+        {
+            "name": "hebrewprober.py",
+            "type": "file",
+            "size": 13919
+        },
+        {
+            "name": "jisfreq.py",
+            "type": "file",
+            "size": 25796
+        },
+        {
+            "name": "johabfreq.py",
+            "type": "file",
+            "size": 42498
+        },
+        {
+            "name": "johabprober.py",
+            "type": "file",
+            "size": 1730
+        },
+        {
+            "name": "jpcntx.py",
+            "type": "file",
+            "size": 26797
+        },
+        {
+            "name": "langbulgarianmodel.py",
+            "type": "file",
+            "size": 104562
+        },
+        {
+            "name": "langgreekmodel.py",
+            "type": "file",
+            "size": 98484
+        },
+        {
+            "name": "langhebrewmodel.py",
+            "type": "file",
+            "size": 98196
+        },
+        {
+            "name": "langhungarianmodel.py",
+            "type": "file",
+            "size": 101363
+        },
+        {
+            "name": "langrussianmodel.py",
+            "type": "file",
+            "size": 128035
+        },
+        {
+            "name": "langthaimodel.py",
+            "type": "file",
+            "size": 102774
+        },
+        {
+            "name": "langturkishmodel.py",
+            "type": "file",
+            "size": 95372
+        },
+        {
+            "name": "latin1prober.py",
+            "type": "file",
+            "size": 5260
+        },
+        {
+            "name": "mbcharsetprober.py",
+            "type": "file",
+            "size": 3367
+        },
+        {
+            "name": "mbcsgroupprober.py",
+            "type": "file",
+            "size": 2056
+        },
+        {
+            "name": "mbcssm.py",
+            "type": "file",
+            "size": 30068
+        },
+        {
+            "name": "metadata",
+            "type": "directory",
+            "size": 13280
+        },
+        {
+            "name": "languages.py",
+            "type": "file",
+            "size": 13280
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "sbcharsetprober.py",
+            "type": "file",
+            "size": 6199
+        },
+        {
+            "name": "sbcsgroupprober.py",
+            "type": "file",
+            "size": 4129
+        },
+        {
+            "name": "sjisprober.py",
+            "type": "file",
+            "size": 3749
+        },
+        {
+            "name": "universaldetector.py",
+            "type": "file",
+            "size": 13288
+        },
+        {
+            "name": "utf1632prober.py",
+            "type": "file",
+            "size": 8289
+        },
+        {
+            "name": "utf8prober.py",
+            "type": "file",
+            "size": 2709
+        },
+        {
+            "name": "version.py",
+            "type": "file",
+            "size": 242
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 3705
+        },
+        {
+            "name": "colorama",
+            "type": "directory",
+            "size": 27348
+        },
+        {
+            "name": "ansi.py",
+            "type": "file",
+            "size": 2522
+        },
+        {
+            "name": "ansitowin32.py",
+            "type": "file",
+            "size": 10830
+        },
+        {
+            "name": "initialise.py",
+            "type": "file",
+            "size": 1915
+        },
+        {
+            "name": "win32.py",
+            "type": "file",
+            "size": 5404
+        },
+        {
+            "name": "winterm.py",
+            "type": "file",
+            "size": 6438
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 239
+        },
+        {
+            "name": "distlib",
+            "type": "directory",
+            "size": 1139219
+        },
+        {
+            "name": "compat.py",
+            "type": "file",
+            "size": 41259
+        },
+        {
+            "name": "database.py",
+            "type": "file",
+            "size": 51697
+        },
+        {
+            "name": "index.py",
+            "type": "file",
+            "size": 20834
+        },
+        {
+            "name": "locators.py",
+            "type": "file",
+            "size": 51991
+        },
+        {
+            "name": "manifest.py",
+            "type": "file",
+            "size": 14811
+        },
+        {
+            "name": "markers.py",
+            "type": "file",
+            "size": 5058
+        },
+        {
+            "name": "metadata.py",
+            "type": "file",
+            "size": 39801
+        },
+        {
+            "name": "resources.py",
+            "type": "file",
+            "size": 10820
+        },
+        {
+            "name": "scripts.py",
+            "type": "file",
+            "size": 18102
+        },
+        {
+            "name": "t32.exe",
+            "type": "file",
+            "size": 97792
+        },
+        {
+            "name": "t64-arm.exe",
+            "type": "file",
+            "size": 182784
+        },
+        {
+            "name": "t64.exe",
+            "type": "file",
+            "size": 108032
+        },
+        {
+            "name": "util.py",
+            "type": "file",
+            "size": 66262
+        },
+        {
+            "name": "version.py",
+            "type": "file",
+            "size": 23513
+        },
+        {
+            "name": "w32.exe",
+            "type": "file",
+            "size": 91648
+        },
+        {
+            "name": "w64-arm.exe",
+            "type": "file",
+            "size": 168448
+        },
+        {
+            "name": "w64.exe",
+            "type": "file",
+            "size": 101888
+        },
+        {
+            "name": "wheel.py",
+            "type": "file",
+            "size": 43898
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 581
+        },
+        {
+            "name": "distro",
+            "type": "directory",
+            "size": 49886
+        },
+        {
+            "name": "distro.py",
+            "type": "file",
+            "size": 48841
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 981
+        },
+        {
+            "name": "__main__.py",
+            "type": "file",
+            "size": 64
+        },
+        {
+            "name": "idna",
+            "type": "directory",
+            "size": 270310
+        },
+        {
+            "name": "codec.py",
+            "type": "file",
+            "size": 3374
+        },
+        {
+            "name": "compat.py",
+            "type": "file",
+            "size": 321
+        },
+        {
+            "name": "core.py",
+            "type": "file",
+            "size": 12950
+        },
+        {
+            "name": "idnadata.py",
+            "type": "file",
+            "size": 44375
+        },
+        {
+            "name": "intranges.py",
+            "type": "file",
+            "size": 1881
+        },
+        {
+            "name": "package_data.py",
+            "type": "file",
+            "size": 21
+        },
+        {
+            "name": "uts46data.py",
+            "type": "file",
+            "size": 206539
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 849
+        },
+        {
+            "name": "msgpack",
+            "type": "directory",
+            "size": 42850
+        },
+        {
+            "name": "exceptions.py",
+            "type": "file",
+            "size": 1081
+        },
+        {
+            "name": "ext.py",
+            "type": "file",
+            "size": 6080
+        },
+        {
+            "name": "fallback.py",
+            "type": "file",
+            "size": 34557
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 1132
+        },
+        {
+            "name": "packaging",
+            "type": "directory",
+            "size": 96292
+        },
+        {
+            "name": "markers.py",
+            "type": "file",
+            "size": 8487
+        },
+        {
+            "name": "requirements.py",
+            "type": "file",
+            "size": 4676
+        },
+        {
+            "name": "specifiers.py",
+            "type": "file",
+            "size": 30110
+        },
+        {
+            "name": "tags.py",
+            "type": "file",
+            "size": 15699
+        },
+        {
+            "name": "utils.py",
+            "type": "file",
+            "size": 4200
+        },
+        {
+            "name": "version.py",
+            "type": "file",
+            "size": 14665
+        },
+        {
+            "name": "_manylinux.py",
+            "type": "file",
+            "size": 11488
+        },
+        {
+            "name": "_musllinux.py",
+            "type": "file",
+            "size": 4378
+        },
+        {
+            "name": "_structures.py",
+            "type": "file",
+            "size": 1431
+        },
+        {
+            "name": "__about__.py",
+            "type": "file",
+            "size": 661
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 497
+        },
+        {
+            "name": "pep517",
+            "type": "directory",
+            "size": 47390
+        },
+        {
+            "name": "build.py",
+            "type": "file",
+            "size": 3443
+        },
+        {
+            "name": "check.py",
+            "type": "file",
+            "size": 6083
+        },
+        {
+            "name": "colorlog.py",
+            "type": "file",
+            "size": 3994
+        },
+        {
+            "name": "dirtools.py",
+            "type": "file",
+            "size": 607
+        },
+        {
+            "name": "envbuild.py",
+            "type": "file",
+            "size": 6081
+        },
+        {
+            "name": "in_process",
+            "type": "directory",
+            "size": 11673
+        },
+        {
+            "name": "_in_process.py",
+            "type": "file",
+            "size": 10801
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 872
+        },
+        {
+            "name": "meta.py",
+            "type": "file",
+            "size": 2520
+        },
+        {
+            "name": "wrappers.py",
+            "type": "file",
+            "size": 12721
+        },
+        {
+            "name": "_compat.py",
+            "type": "file",
+            "size": 138
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 130
+        },
+        {
+            "name": "pkg_resources",
+            "type": "directory",
+            "size": 108849
+        },
+        {
+            "name": "py31compat.py",
+            "type": "file",
+            "size": 562
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 108287
+        },
+        {
+            "name": "platformdirs",
+            "type": "directory",
+            "size": 39067
+        },
+        {
+            "name": "android.py",
+            "type": "file",
+            "size": 4068
+        },
+        {
+            "name": "api.py",
+            "type": "file",
+            "size": 4910
+        },
+        {
+            "name": "macos.py",
+            "type": "file",
+            "size": 2655
+        },
+        {
+            "name": "unix.py",
+            "type": "file",
+            "size": 6910
+        },
+        {
+            "name": "version.py",
+            "type": "file",
+            "size": 78
+        },
+        {
+            "name": "windows.py",
+            "type": "file",
+            "size": 6439
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 12831
+        },
+        {
+            "name": "__main__.py",
+            "type": "file",
+            "size": 1176
+        },
+        {
+            "name": "pygments",
+            "type": "directory",
+            "size": 479266
+        },
+        {
+            "name": "cmdline.py",
+            "type": "file",
+            "size": 23685
+        },
+        {
+            "name": "console.py",
+            "type": "file",
+            "size": 1697
+        },
+        {
+            "name": "filter.py",
+            "type": "file",
+            "size": 1938
+        },
+        {
+            "name": "filters",
+            "type": "directory",
+            "size": 40386
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 40386
+        },
+        {
+            "name": "formatter.py",
+            "type": "file",
+            "size": 2917
+        },
+        {
+            "name": "formatters",
+            "type": "directory",
+            "size": 135976
+        },
+        {
+            "name": "bbcode.py",
+            "type": "file",
+            "size": 3314
+        },
+        {
+            "name": "groff.py",
+            "type": "file",
+            "size": 5086
+        },
+        {
+            "name": "html.py",
+            "type": "file",
+            "size": 35441
+        },
+        {
+            "name": "img.py",
+            "type": "file",
+            "size": 21938
+        },
+        {
+            "name": "irc.py",
+            "type": "file",
+            "size": 5871
+        },
+        {
+            "name": "latex.py",
+            "type": "file",
+            "size": 19351
+        },
+        {
+            "name": "other.py",
+            "type": "file",
+            "size": 5073
+        },
+        {
+            "name": "pangomarkup.py",
+            "type": "file",
+            "size": 2212
+        },
+        {
+            "name": "rtf.py",
+            "type": "file",
+            "size": 5014
+        },
+        {
+            "name": "svg.py",
+            "type": "file",
+            "size": 7335
+        },
+        {
+            "name": "terminal.py",
+            "type": "file",
+            "size": 4674
+        },
+        {
+            "name": "terminal256.py",
+            "type": "file",
+            "size": 11753
+        },
+        {
+            "name": "_mapping.py",
+            "type": "file",
+            "size": 4104
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 4810
+        },
+        {
+            "name": "lexer.py",
+            "type": "file",
+            "size": 32005
+        },
+        {
+            "name": "lexers",
+            "type": "directory",
+            "size": 134782
+        },
+        {
+            "name": "python.py",
+            "type": "file",
+            "size": 53376
+        },
+        {
+            "name": "_mapping.py",
+            "type": "file",
+            "size": 70232
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 11174
+        },
+        {
+            "name": "modeline.py",
+            "type": "file",
+            "size": 986
+        },
+        {
+            "name": "plugin.py",
+            "type": "file",
+            "size": 2591
+        },
+        {
+            "name": "regexopt.py",
+            "type": "file",
+            "size": 3072
+        },
+        {
+            "name": "scanner.py",
+            "type": "file",
+            "size": 3092
+        },
+        {
+            "name": "sphinxext.py",
+            "type": "file",
+            "size": 4630
+        },
+        {
+            "name": "style.py",
+            "type": "file",
+            "size": 6257
+        },
+        {
+            "name": "styles",
+            "type": "directory",
+            "size": 3419
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 3419
+        },
+        {
+            "name": "token.py",
+            "type": "file",
+            "size": 6184
+        },
+        {
+            "name": "unistring.py",
+            "type": "file",
+            "size": 63187
+        },
+        {
+            "name": "util.py",
+            "type": "file",
+            "size": 9110
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 2999
+        },
+        {
+            "name": "__main__.py",
+            "type": "file",
+            "size": 353
+        },
+        {
+            "name": "pyparsing",
+            "type": "directory",
+            "size": 370049
+        },
+        {
+            "name": "actions.py",
+            "type": "file",
+            "size": 6426
+        },
+        {
+            "name": "common.py",
+            "type": "file",
+            "size": 12936
+        },
+        {
+            "name": "core.py",
+            "type": "file",
+            "size": 213344
+        },
+        {
+            "name": "diagram",
+            "type": "directory",
+            "size": 23685
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 23685
+        },
+        {
+            "name": "exceptions.py",
+            "type": "file",
+            "size": 9023
+        },
+        {
+            "name": "helpers.py",
+            "type": "file",
+            "size": 39129
+        },
+        {
+            "name": "results.py",
+            "type": "file",
+            "size": 25341
+        },
+        {
+            "name": "testing.py",
+            "type": "file",
+            "size": 13402
+        },
+        {
+            "name": "unicode.py",
+            "type": "file",
+            "size": 10787
+        },
+        {
+            "name": "util.py",
+            "type": "file",
+            "size": 6805
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 9171
+        },
+        {
+            "name": "requests",
+            "type": "directory",
+            "size": 180427
+        },
+        {
+            "name": "adapters.py",
+            "type": "file",
+            "size": 21443
+        },
+        {
+            "name": "api.py",
+            "type": "file",
+            "size": 6377
+        },
+        {
+            "name": "auth.py",
+            "type": "file",
+            "size": 10187
+        },
+        {
+            "name": "certs.py",
+            "type": "file",
+            "size": 575
+        },
+        {
+            "name": "compat.py",
+            "type": "file",
+            "size": 1286
+        },
+        {
+            "name": "cookies.py",
+            "type": "file",
+            "size": 18560
+        },
+        {
+            "name": "exceptions.py",
+            "type": "file",
+            "size": 3823
+        },
+        {
+            "name": "help.py",
+            "type": "file",
+            "size": 3879
+        },
+        {
+            "name": "hooks.py",
+            "type": "file",
+            "size": 733
+        },
+        {
+            "name": "models.py",
+            "type": "file",
+            "size": 35287
+        },
+        {
+            "name": "packages.py",
+            "type": "file",
+            "size": 695
+        },
+        {
+            "name": "sessions.py",
+            "type": "file",
+            "size": 30180
+        },
+        {
+            "name": "status_codes.py",
+            "type": "file",
+            "size": 4235
+        },
+        {
+            "name": "structures.py",
+            "type": "file",
+            "size": 2912
+        },
+        {
+            "name": "utils.py",
+            "type": "file",
+            "size": 33240
+        },
+        {
+            "name": "_internal_utils.py",
+            "type": "file",
+            "size": 1397
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 5178
+        },
+        {
+            "name": "__version__.py",
+            "type": "file",
+            "size": 440
+        },
+        {
+            "name": "resolvelib",
+            "type": "directory",
+            "size": 30534
+        },
+        {
+            "name": "compat",
+            "type": "directory",
+            "size": 156
+        },
+        {
+            "name": "collections_abc.py",
+            "type": "file",
+            "size": 156
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "providers.py",
+            "type": "file",
+            "size": 5872
+        },
+        {
+            "name": "reporters.py",
+            "type": "file",
+            "size": 1583
+        },
+        {
+            "name": "resolvers.py",
+            "type": "file",
+            "size": 17592
+        },
+        {
+            "name": "structs.py",
+            "type": "file",
+            "size": 4794
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 537
+        },
+        {
+            "name": "rich",
+            "type": "directory",
+            "size": 878477
+        },
+        {
+            "name": "abc.py",
+            "type": "file",
+            "size": 890
+        },
+        {
+            "name": "align.py",
+            "type": "file",
+            "size": 10368
+        },
+        {
+            "name": "ansi.py",
+            "type": "file",
+            "size": 6820
+        },
+        {
+            "name": "bar.py",
+            "type": "file",
+            "size": 3264
+        },
+        {
+            "name": "box.py",
+            "type": "file",
+            "size": 9864
+        },
+        {
+            "name": "cells.py",
+            "type": "file",
+            "size": 4503
+        },
+        {
+            "name": "color.py",
+            "type": "file",
+            "size": 17957
+        },
+        {
+            "name": "color_triplet.py",
+            "type": "file",
+            "size": 1054
+        },
+        {
+            "name": "columns.py",
+            "type": "file",
+            "size": 7131
+        },
+        {
+            "name": "console.py",
+            "type": "file",
+            "size": 95885
+        },
+        {
+            "name": "constrain.py",
+            "type": "file",
+            "size": 1288
+        },
+        {
+            "name": "containers.py",
+            "type": "file",
+            "size": 5497
+        },
+        {
+            "name": "control.py",
+            "type": "file",
+            "size": 6630
+        },
+        {
+            "name": "default_styles.py",
+            "type": "file",
+            "size": 7954
+        },
+        {
+            "name": "diagnose.py",
+            "type": "file",
+            "size": 972
+        },
+        {
+            "name": "emoji.py",
+            "type": "file",
+            "size": 2501
+        },
+        {
+            "name": "errors.py",
+            "type": "file",
+            "size": 642
+        },
+        {
+            "name": "filesize.py",
+            "type": "file",
+            "size": 2507
+        },
+        {
+            "name": "file_proxy.py",
+            "type": "file",
+            "size": 1616
+        },
+        {
+            "name": "highlighter.py",
+            "type": "file",
+            "size": 9585
+        },
+        {
+            "name": "json.py",
+            "type": "file",
+            "size": 5051
+        },
+        {
+            "name": "jupyter.py",
+            "type": "file",
+            "size": 3252
+        },
+        {
+            "name": "layout.py",
+            "type": "file",
+            "size": 14074
+        },
+        {
+            "name": "live.py",
+            "type": "file",
+            "size": 14172
+        },
+        {
+            "name": "live_render.py",
+            "type": "file",
+            "size": 3667
+        },
+        {
+            "name": "logging.py",
+            "type": "file",
+            "size": 11471
+        },
+        {
+            "name": "markup.py",
+            "type": "file",
+            "size": 8198
+        },
+        {
+            "name": "measure.py",
+            "type": "file",
+            "size": 5305
+        },
+        {
+            "name": "padding.py",
+            "type": "file",
+            "size": 4970
+        },
+        {
+            "name": "pager.py",
+            "type": "file",
+            "size": 828
+        },
+        {
+            "name": "palette.py",
+            "type": "file",
+            "size": 3396
+        },
+        {
+            "name": "panel.py",
+            "type": "file",
+            "size": 8744
+        },
+        {
+            "name": "pretty.py",
+            "type": "file",
+            "size": 36576
+        },
+        {
+            "name": "progress.py",
+            "type": "file",
+            "size": 59746
+        },
+        {
+            "name": "progress_bar.py",
+            "type": "file",
+            "size": 8161
+        },
+        {
+            "name": "prompt.py",
+            "type": "file",
+            "size": 11303
+        },
+        {
+            "name": "protocol.py",
+            "type": "file",
+            "size": 1391
+        },
+        {
+            "name": "region.py",
+            "type": "file",
+            "size": 166
+        },
+        {
+            "name": "repr.py",
+            "type": "file",
+            "size": 4449
+        },
+        {
+            "name": "rule.py",
+            "type": "file",
+            "size": 4773
+        },
+        {
+            "name": "scope.py",
+            "type": "file",
+            "size": 2842
+        },
+        {
+            "name": "screen.py",
+            "type": "file",
+            "size": 1591
+        },
+        {
+            "name": "segment.py",
+            "type": "file",
+            "size": 24224
+        },
+        {
+            "name": "spinner.py",
+            "type": "file",
+            "size": 4374
+        },
+        {
+            "name": "status.py",
+            "type": "file",
+            "size": 4425
+        },
+        {
+            "name": "style.py",
+            "type": "file",
+            "size": 26240
+        },
+        {
+            "name": "styled.py",
+            "type": "file",
+            "size": 1258
+        },
+        {
+            "name": "syntax.py",
+            "type": "file",
+            "size": 34697
+        },
+        {
+            "name": "table.py",
+            "type": "file",
+            "size": 39515
+        },
+        {
+            "name": "terminal_theme.py",
+            "type": "file",
+            "size": 3370
+        },
+        {
+            "name": "text.py",
+            "type": "file",
+            "size": 44666
+        },
+        {
+            "name": "theme.py",
+            "type": "file",
+            "size": 3627
+        },
+        {
+            "name": "themes.py",
+            "type": "file",
+            "size": 102
+        },
+        {
+            "name": "traceback.py",
+            "type": "file",
+            "size": 26060
+        },
+        {
+            "name": "tree.py",
+            "type": "file",
+            "size": 9169
+        },
+        {
+            "name": "_cell_widths.py",
+            "type": "file",
+            "size": 10096
+        },
+        {
+            "name": "_emoji_codes.py",
+            "type": "file",
+            "size": 140235
+        },
+        {
+            "name": "_emoji_replace.py",
+            "type": "file",
+            "size": 1064
+        },
+        {
+            "name": "_export_format.py",
+            "type": "file",
+            "size": 2114
+        },
+        {
+            "name": "_extension.py",
+            "type": "file",
+            "size": 265
+        },
+        {
+            "name": "_inspect.py",
+            "type": "file",
+            "size": 9695
+        },
+        {
+            "name": "_log_render.py",
+            "type": "file",
+            "size": 3225
+        },
+        {
+            "name": "_loop.py",
+            "type": "file",
+            "size": 1236
+        },
+        {
+            "name": "_palettes.py",
+            "type": "file",
+            "size": 7063
+        },
+        {
+            "name": "_pick.py",
+            "type": "file",
+            "size": 423
+        },
+        {
+            "name": "_ratio.py",
+            "type": "file",
+            "size": 5472
+        },
+        {
+            "name": "_spinners.py",
+            "type": "file",
+            "size": 19919
+        },
+        {
+            "name": "_stack.py",
+            "type": "file",
+            "size": 351
+        },
+        {
+            "name": "_timer.py",
+            "type": "file",
+            "size": 417
+        },
+        {
+            "name": "_win32_console.py",
+            "type": "file",
+            "size": 22820
+        },
+        {
+            "name": "_windows.py",
+            "type": "file",
+            "size": 1926
+        },
+        {
+            "name": "_windows_renderer.py",
+            "type": "file",
+            "size": 2783
+        },
+        {
+            "name": "_wrap.py",
+            "type": "file",
+            "size": 1840
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 5944
+        },
+        {
+            "name": "__main__.py",
+            "type": "file",
+            "size": 8808
+        },
+        {
+            "name": "six.py",
+            "type": "file",
+            "size": 34549
+        },
+        {
+            "name": "tenacity",
+            "type": "directory",
+            "size": 50281
+        },
+        {
+            "name": "after.py",
+            "type": "file",
+            "size": 1496
+        },
+        {
+            "name": "before.py",
+            "type": "file",
+            "size": 1376
+        },
+        {
+            "name": "before_sleep.py",
+            "type": "file",
+            "size": 1908
+        },
+        {
+            "name": "nap.py",
+            "type": "file",
+            "size": 1383
+        },
+        {
+            "name": "retry.py",
+            "type": "file",
+            "size": 7550
+        },
+        {
+            "name": "stop.py",
+            "type": "file",
+            "size": 2790
+        },
+        {
+            "name": "tornadoweb.py",
+            "type": "file",
+            "size": 2145
+        },
+        {
+            "name": "wait.py",
+            "type": "file",
+            "size": 8011
+        },
+        {
+            "name": "_asyncio.py",
+            "type": "file",
+            "size": 3314
+        },
+        {
+            "name": "_utils.py",
+            "type": "file",
+            "size": 1944
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 18364
+        },
+        {
+            "name": "tomli",
+            "type": "directory",
+            "size": 26226
+        },
+        {
+            "name": "_parser.py",
+            "type": "file",
+            "size": 22633
+        },
+        {
+            "name": "_re.py",
+            "type": "file",
+            "size": 2943
+        },
+        {
+            "name": "_types.py",
+            "type": "file",
+            "size": 254
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 396
+        },
+        {
+            "name": "typing_extensions.py",
+            "type": "file",
+            "size": 80114
+        },
+        {
+            "name": "urllib3",
+            "type": "directory",
+            "size": 388569
+        },
+        {
+            "name": "connection.py",
+            "type": "file",
+            "size": 20070
+        },
+        {
+            "name": "connectionpool.py",
+            "type": "file",
+            "size": 39093
+        },
+        {
+            "name": "contrib",
+            "type": "directory",
+            "size": 106810
+        },
+        {
+            "name": "appengine.py",
+            "type": "file",
+            "size": 11034
+        },
+        {
+            "name": "ntlmpool.py",
+            "type": "file",
+            "size": 4538
+        },
+        {
+            "name": "pyopenssl.py",
+            "type": "file",
+            "size": 17182
+        },
+        {
+            "name": "securetransport.py",
+            "type": "file",
+            "size": 34448
+        },
+        {
+            "name": "socks.py",
+            "type": "file",
+            "size": 7097
+        },
+        {
+            "name": "_appengine_environ.py",
+            "type": "file",
+            "size": 957
+        },
+        {
+            "name": "_securetransport",
+            "type": "directory",
+            "size": 31554
+        },
+        {
+            "name": "bindings.py",
+            "type": "file",
+            "size": 17632
+        },
+        {
+            "name": "low_level.py",
+            "type": "file",
+            "size": 13922
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "exceptions.py",
+            "type": "file",
+            "size": 8217
+        },
+        {
+            "name": "fields.py",
+            "type": "file",
+            "size": 8579
+        },
+        {
+            "name": "filepost.py",
+            "type": "file",
+            "size": 2440
+        },
+        {
+            "name": "packages",
+            "type": "directory",
+            "size": 36082
+        },
+        {
+            "name": "backports",
+            "type": "directory",
+            "size": 1417
+        },
+        {
+            "name": "makefile.py",
+            "type": "file",
+            "size": 1417
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "six.py",
+            "type": "file",
+            "size": 34665
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "poolmanager.py",
+            "type": "file",
+            "size": 19786
+        },
+        {
+            "name": "request.py",
+            "type": "file",
+            "size": 5985
+        },
+        {
+            "name": "response.py",
+            "type": "file",
+            "size": 30109
+        },
+        {
+            "name": "util",
+            "type": "directory",
+            "size": 97190
+        },
+        {
+            "name": "connection.py",
+            "type": "file",
+            "size": 4901
+        },
+        {
+            "name": "proxy.py",
+            "type": "file",
+            "size": 1605
+        },
+        {
+            "name": "queue.py",
+            "type": "file",
+            "size": 498
+        },
+        {
+            "name": "request.py",
+            "type": "file",
+            "size": 3997
+        },
+        {
+            "name": "response.py",
+            "type": "file",
+            "size": 3510
+        },
+        {
+            "name": "retry.py",
+            "type": "file",
+            "size": 22001
+        },
+        {
+            "name": "ssltransport.py",
+            "type": "file",
+            "size": 6895
+        },
+        {
+            "name": "ssl_.py",
+            "type": "file",
+            "size": 17177
+        },
+        {
+            "name": "ssl_match_hostname.py",
+            "type": "file",
+            "size": 5758
+        },
+        {
+            "name": "timeout.py",
+            "type": "file",
+            "size": 10003
+        },
+        {
+            "name": "url.py",
+            "type": "file",
+            "size": 14287
+        },
+        {
+            "name": "wait.py",
+            "type": "file",
+            "size": 5403
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 1155
+        },
+        {
+            "name": "_collections.py",
+            "type": "file",
+            "size": 10811
+        },
+        {
+            "name": "_version.py",
+            "type": "file",
+            "size": 64
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 3333
+        },
+        {
+            "name": "vendor.txt",
+            "type": "file",
+            "size": 469
+        },
+        {
+            "name": "webencodings",
+            "type": "directory",
+            "size": 31733
+        },
+        {
+            "name": "labels.py",
+            "type": "file",
+            "size": 8979
+        },
+        {
+            "name": "mklabels.py",
+            "type": "file",
+            "size": 1305
+        },
+        {
+            "name": "tests.py",
+            "type": "file",
+            "size": 6563
+        },
+        {
+            "name": "x_user_defined.py",
+            "type": "file",
+            "size": 4307
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 10579
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 4966
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 357
+        },
+        {
+            "name": "__main__.py",
+            "type": "file",
+            "size": 1198
+        },
+        {
+            "name": "__pip-runner__.py",
+            "type": "file",
+            "size": 1444
+        },
+        {
+            "name": "pip-22.3.1.dist-info",
+            "type": "directory",
+            "size": 76670
+        },
+        {
+            "name": "entry_points.txt",
+            "type": "file",
+            "size": 125
+        },
+        {
+            "name": "INSTALLER",
+            "type": "file",
+            "size": 5
+        },
+        {
+            "name": "LICENSE.txt",
+            "type": "file",
+            "size": 1093
+        },
+        {
+            "name": "METADATA",
+            "type": "file",
+            "size": 4072
+        },
+        {
+            "name": "RECORD",
+            "type": "file",
+            "size": 71279
+        },
+        {
+            "name": "top_level.txt",
+            "type": "file",
+            "size": 4
+        },
+        {
+            "name": "WHEEL",
+            "type": "file",
+            "size": 92
+        },
+        {
+            "name": "pip-22.3.1.virtualenv",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "pkg_resources",
+            "type": "directory",
+            "size": 1862509
+        },
+        {
+            "name": "extern",
+            "type": "directory",
+            "size": 6750
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 2426
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 4324
+        },
+        {
+            "name": "__init__.cpython-311.pyc",
+            "type": "file",
+            "size": 4324
+        },
+        {
+            "name": "_vendor",
+            "type": "directory",
+            "size": 1587614
+        },
+        {
+            "name": "appdirs.py",
+            "type": "file",
+            "size": 24701
+        },
+        {
+            "name": "importlib_resources",
+            "type": "directory",
+            "size": 25123
+        },
+        {
+            "name": "abc.py",
+            "type": "file",
+            "size": 3886
+        },
+        {
+            "name": "readers.py",
+            "type": "file",
+            "size": 3566
+        },
+        {
+            "name": "simple.py",
+            "type": "file",
+            "size": 2836
+        },
+        {
+            "name": "_adapters.py",
+            "type": "file",
+            "size": 4504
+        },
+        {
+            "name": "_common.py",
+            "type": "file",
+            "size": 2741
+        },
+        {
+            "name": "_compat.py",
+            "type": "file",
+            "size": 2706
+        },
+        {
+            "name": "_itertools.py",
+            "type": "file",
+            "size": 884
+        },
+        {
+            "name": "_legacy.py",
+            "type": "file",
+            "size": 3494
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 506
+        },
+        {
+            "name": "jaraco",
+            "type": "directory",
+            "size": 91021
+        },
+        {
+            "name": "context.py",
+            "type": "file",
+            "size": 5420
+        },
+        {
+            "name": "functools.py",
+            "type": "file",
+            "size": 13515
+        },
+        {
+            "name": "text",
+            "type": "directory",
+            "size": 42141
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 15526
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 26615
+        },
+        {
+            "name": "__init__.cpython-311.pyc",
+            "type": "file",
+            "size": 26615
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 29945
+        },
+        {
+            "name": "context.cpython-311.pyc",
+            "type": "file",
+            "size": 9435
+        },
+        {
+            "name": "functools.cpython-311.pyc",
+            "type": "file",
+            "size": 20298
+        },
+        {
+            "name": "__init__.cpython-311.pyc",
+            "type": "file",
+            "size": 212
+        },
+        {
+            "name": "more_itertools",
+            "type": "directory",
+            "size": 346293
+        },
+        {
+            "name": "more.py",
+            "type": "file",
+            "size": 132569
+        },
+        {
+            "name": "recipes.py",
+            "type": "file",
+            "size": 18410
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 83
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 195231
+        },
+        {
+            "name": "more.cpython-311.pyc",
+            "type": "file",
+            "size": 167967
+        },
+        {
+            "name": "recipes.cpython-311.pyc",
+            "type": "file",
+            "size": 26958
+        },
+        {
+            "name": "__init__.cpython-311.pyc",
+            "type": "file",
+            "size": 306
+        },
+        {
+            "name": "packaging",
+            "type": "directory",
+            "size": 231053
+        },
+        {
+            "name": "markers.py",
+            "type": "file",
+            "size": 8496
+        },
+        {
+            "name": "requirements.py",
+            "type": "file",
+            "size": 4706
+        },
+        {
+            "name": "specifiers.py",
+            "type": "file",
+            "size": 30110
+        },
+        {
+            "name": "tags.py",
+            "type": "file",
+            "size": 15699
+        },
+        {
+            "name": "utils.py",
+            "type": "file",
+            "size": 4200
+        },
+        {
+            "name": "version.py",
+            "type": "file",
+            "size": 14665
+        },
+        {
+            "name": "_manylinux.py",
+            "type": "file",
+            "size": 11488
+        },
+        {
+            "name": "_musllinux.py",
+            "type": "file",
+            "size": 4378
+        },
+        {
+            "name": "_structures.py",
+            "type": "file",
+            "size": 1431
+        },
+        {
+            "name": "__about__.py",
+            "type": "file",
+            "size": 661
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 497
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 134722
+        },
+        {
+            "name": "markers.cpython-311.pyc",
+            "type": "file",
+            "size": 16548
+        },
+        {
+            "name": "requirements.cpython-311.pyc",
+            "type": "file",
+            "size": 7663
+        },
+        {
+            "name": "specifiers.cpython-311.pyc",
+            "type": "file",
+            "size": 34377
+        },
+        {
+            "name": "tags.cpython-311.pyc",
+            "type": "file",
+            "size": 21362
+        },
+        {
+            "name": "utils.cpython-311.pyc",
+            "type": "file",
+            "size": 6697
+        },
+        {
+            "name": "version.cpython-311.pyc",
+            "type": "file",
+            "size": 21889
+        },
+        {
+            "name": "_manylinux.cpython-311.pyc",
+            "type": "file",
+            "size": 13243
+        },
+        {
+            "name": "_musllinux.cpython-311.pyc",
+            "type": "file",
+            "size": 8011
+        },
+        {
+            "name": "_structures.cpython-311.pyc",
+            "type": "file",
+            "size": 3699
+        },
+        {
+            "name": "__about__.cpython-311.pyc",
+            "type": "file",
+            "size": 656
+        },
+        {
+            "name": "__init__.cpython-311.pyc",
+            "type": "file",
+            "size": 577
+        },
+        {
+            "name": "pyparsing",
+            "type": "directory",
+            "size": 831340
+        },
+        {
+            "name": "actions.py",
+            "type": "file",
+            "size": 6426
+        },
+        {
+            "name": "common.py",
+            "type": "file",
+            "size": 12936
+        },
+        {
+            "name": "core.py",
+            "type": "file",
+            "size": 213310
+        },
+        {
+            "name": "diagram",
+            "type": "directory",
+            "size": 23668
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 23668
+        },
+        {
+            "name": "exceptions.py",
+            "type": "file",
+            "size": 9023
+        },
+        {
+            "name": "helpers.py",
+            "type": "file",
+            "size": 39129
+        },
+        {
+            "name": "results.py",
+            "type": "file",
+            "size": 25341
+        },
+        {
+            "name": "testing.py",
+            "type": "file",
+            "size": 13402
+        },
+        {
+            "name": "unicode.py",
+            "type": "file",
+            "size": 10787
+        },
+        {
+            "name": "util.py",
+            "type": "file",
+            "size": 6805
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 9159
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 461354
+        },
+        {
+            "name": "actions.cpython-311.pyc",
+            "type": "file",
+            "size": 8476
+        },
+        {
+            "name": "common.cpython-311.pyc",
+            "type": "file",
+            "size": 14798
+        },
+        {
+            "name": "core.cpython-311.pyc",
+            "type": "file",
+            "size": 277650
+        },
+        {
+            "name": "exceptions.cpython-311.pyc",
+            "type": "file",
+            "size": 12940
+        },
+        {
+            "name": "helpers.cpython-311.pyc",
+            "type": "file",
+            "size": 53641
+        },
+        {
+            "name": "results.cpython-311.pyc",
+            "type": "file",
+            "size": 36324
+        },
+        {
+            "name": "testing.cpython-311.pyc",
+            "type": "file",
+            "size": 19520
+        },
+        {
+            "name": "unicode.cpython-311.pyc",
+            "type": "file",
+            "size": 15378
+        },
+        {
+            "name": "util.cpython-311.pyc",
+            "type": "file",
+            "size": 14277
+        },
+        {
+            "name": "__init__.cpython-311.pyc",
+            "type": "file",
+            "size": 8350
+        },
+        {
+            "name": "zipp.py",
+            "type": "file",
+            "size": 8425
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 29658
+        },
+        {
+            "name": "appdirs.cpython-311.pyc",
+            "type": "file",
+            "size": 29453
+        },
+        {
+            "name": "__init__.cpython-311.pyc",
+            "type": "file",
+            "size": 205
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 108568
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 159577
+        },
+        {
+            "name": "__init__.cpython-311.pyc",
+            "type": "file",
+            "size": 159577
+        },
+        {
+            "name": "setuptools",
+            "type": "directory",
+            "size": 3027307
+        },
+        {
+            "name": "archive_util.py",
+            "type": "file",
+            "size": 7346
+        },
+        {
+            "name": "build_meta.py",
+            "type": "file",
+            "size": 19539
+        },
+        {
+            "name": "cli-32.exe",
+            "type": "file",
+            "size": 65536
+        },
+        {
+            "name": "cli-64.exe",
+            "type": "file",
+            "size": 74752
+        },
+        {
+            "name": "cli-arm64.exe",
+            "type": "file",
+            "size": 137216
+        },
+        {
+            "name": "cli.exe",
+            "type": "file",
+            "size": 65536
+        },
+        {
+            "name": "command",
+            "type": "directory",
+            "size": 267898
+        },
+        {
+            "name": "alias.py",
+            "type": "file",
+            "size": 2381
+        },
+        {
+            "name": "bdist_egg.py",
+            "type": "file",
+            "size": 16623
+        },
+        {
+            "name": "bdist_rpm.py",
+            "type": "file",
+            "size": 1182
+        },
+        {
+            "name": "build.py",
+            "type": "file",
+            "size": 6589
+        },
+        {
+            "name": "build_clib.py",
+            "type": "file",
+            "size": 4415
+        },
+        {
+            "name": "build_ext.py",
+            "type": "file",
+            "size": 15821
+        },
+        {
+            "name": "build_py.py",
+            "type": "file",
+            "size": 14115
+        },
+        {
+            "name": "develop.py",
+            "type": "file",
+            "size": 7012
+        },
+        {
+            "name": "dist_info.py",
+            "type": "file",
+            "size": 4800
+        },
+        {
+            "name": "easy_install.py",
+            "type": "file",
+            "size": 85662
+        },
+        {
+            "name": "editable_wheel.py",
+            "type": "file",
+            "size": 31188
+        },
+        {
+            "name": "egg_info.py",
+            "type": "file",
+            "size": 26795
+        },
+        {
+            "name": "install.py",
+            "type": "file",
+            "size": 5163
+        },
+        {
+            "name": "install_egg_info.py",
+            "type": "file",
+            "size": 2226
+        },
+        {
+            "name": "install_lib.py",
+            "type": "file",
+            "size": 3875
+        },
+        {
+            "name": "install_scripts.py",
+            "type": "file",
+            "size": 2612
+        },
+        {
+            "name": "launcher manifest.xml",
+            "type": "file",
+            "size": 628
+        },
+        {
+            "name": "py36compat.py",
+            "type": "file",
+            "size": 4946
+        },
+        {
+            "name": "register.py",
+            "type": "file",
+            "size": 468
+        },
+        {
+            "name": "rotate.py",
+            "type": "file",
+            "size": 2128
+        },
+        {
+            "name": "saveopts.py",
+            "type": "file",
+            "size": 658
+        },
+        {
+            "name": "sdist.py",
+            "type": "file",
+            "size": 7071
+        },
+        {
+            "name": "setopt.py",
+            "type": "file",
+            "size": 5086
+        },
+        {
+            "name": "test.py",
+            "type": "file",
+            "size": 8102
+        },
+        {
+            "name": "upload.py",
+            "type": "file",
+            "size": 462
+        },
+        {
+            "name": "upload_docs.py",
+            "type": "file",
+            "size": 7494
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 396
+        },
+        {
+            "name": "config",
+            "type": "directory",
+            "size": 369045
+        },
+        {
+            "name": "expand.py",
+            "type": "file",
+            "size": 16319
+        },
+        {
+            "name": "pyprojecttoml.py",
+            "type": "file",
+            "size": 19304
+        },
+        {
+            "name": "setupcfg.py",
+            "type": "file",
+            "size": 25198
+        },
+        {
+            "name": "_apply_pyprojecttoml.py",
+            "type": "file",
+            "size": 13398
+        },
+        {
+            "name": "_validate_pyproject",
+            "type": "directory",
+            "size": 293705
+        },
+        {
+            "name": "error_reporting.py",
+            "type": "file",
+            "size": 11266
+        },
+        {
+            "name": "extra_validations.py",
+            "type": "file",
+            "size": 1153
+        },
+        {
+            "name": "fastjsonschema_exceptions.py",
+            "type": "file",
+            "size": 1612
+        },
+        {
+            "name": "fastjsonschema_validations.py",
+            "type": "file",
+            "size": 269900
+        },
+        {
+            "name": "formats.py",
+            "type": "file",
+            "size": 8736
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 1038
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 1121
+        },
+        {
+            "name": "depends.py",
+            "type": "file",
+            "size": 5499
+        },
+        {
+            "name": "dep_util.py",
+            "type": "file",
+            "size": 949
+        },
+        {
+            "name": "discovery.py",
+            "type": "file",
+            "size": 20799
+        },
+        {
+            "name": "dist.py",
+            "type": "file",
+            "size": 45578
+        },
+        {
+            "name": "errors.py",
+            "type": "file",
+            "size": 2464
+        },
+        {
+            "name": "extension.py",
+            "type": "file",
+            "size": 5591
+        },
+        {
+            "name": "extern",
+            "type": "directory",
+            "size": 2512
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 2512
+        },
+        {
+            "name": "glob.py",
+            "type": "file",
+            "size": 4873
+        },
+        {
+            "name": "gui-32.exe",
+            "type": "file",
+            "size": 65536
+        },
+        {
+            "name": "gui-64.exe",
+            "type": "file",
+            "size": 75264
+        },
+        {
+            "name": "gui-arm64.exe",
+            "type": "file",
+            "size": 137728
+        },
+        {
+            "name": "gui.exe",
+            "type": "file",
+            "size": 65536
+        },
+        {
+            "name": "installer.py",
+            "type": "file",
+            "size": 3824
+        },
+        {
+            "name": "launch.py",
+            "type": "file",
+            "size": 812
+        },
+        {
+            "name": "logging.py",
+            "type": "file",
+            "size": 1210
+        },
+        {
+            "name": "monkey.py",
+            "type": "file",
+            "size": 4857
+        },
+        {
+            "name": "msvc.py",
+            "type": "file",
+            "size": 47724
+        },
+        {
+            "name": "namespaces.py",
+            "type": "file",
+            "size": 3093
+        },
+        {
+            "name": "package_index.py",
+            "type": "file",
+            "size": 40329
+        },
+        {
+            "name": "py34compat.py",
+            "type": "file",
+            "size": 245
+        },
+        {
+            "name": "sandbox.py",
+            "type": "file",
+            "size": 14348
+        },
+        {
+            "name": "script (dev).tmpl",
+            "type": "file",
+            "size": 218
+        },
+        {
+            "name": "script.tmpl",
+            "type": "file",
+            "size": 138
+        },
+        {
+            "name": "unicode_utils.py",
+            "type": "file",
+            "size": 941
+        },
+        {
+            "name": "version.py",
+            "type": "file",
+            "size": 144
+        },
+        {
+            "name": "wheel.py",
+            "type": "file",
+            "size": 8376
+        },
+        {
+            "name": "windows_support.py",
+            "type": "file",
+            "size": 718
+        },
+        {
+            "name": "_deprecation_warning.py",
+            "type": "file",
+            "size": 218
+        },
+        {
+            "name": "_distutils",
+            "type": "directory",
+            "size": 604933
+        },
+        {
+            "name": "archive_util.py",
+            "type": "file",
+            "size": 8603
+        },
+        {
+            "name": "bcppcompiler.py",
+            "type": "file",
+            "size": 14789
+        },
+        {
+            "name": "ccompiler.py",
+            "type": "file",
+            "size": 47369
+        },
+        {
+            "name": "cmd.py",
+            "type": "file",
+            "size": 17973
+        },
+        {
+            "name": "command",
+            "type": "directory",
+            "size": 208459
+        },
+        {
+            "name": "bdist.py",
+            "type": "file",
+            "size": 5441
+        },
+        {
+            "name": "bdist_dumb.py",
+            "type": "file",
+            "size": 4701
+        },
+        {
+            "name": "bdist_rpm.py",
+            "type": "file",
+            "size": 22051
+        },
+        {
+            "name": "build.py",
+            "type": "file",
+            "size": 5617
+        },
+        {
+            "name": "build_clib.py",
+            "type": "file",
+            "size": 7728
+        },
+        {
+            "name": "build_ext.py",
+            "type": "file",
+            "size": 31558
+        },
+        {
+            "name": "build_py.py",
+            "type": "file",
+            "size": 16568
+        },
+        {
+            "name": "build_scripts.py",
+            "type": "file",
+            "size": 5624
+        },
+        {
+            "name": "check.py",
+            "type": "file",
+            "size": 4888
+        },
+        {
+            "name": "clean.py",
+            "type": "file",
+            "size": 2603
+        },
+        {
+            "name": "config.py",
+            "type": "file",
+            "size": 13137
+        },
+        {
+            "name": "install.py",
+            "type": "file",
+            "size": 30221
+        },
+        {
+            "name": "install_data.py",
+            "type": "file",
+            "size": 2779
+        },
+        {
+            "name": "install_egg_info.py",
+            "type": "file",
+            "size": 2785
+        },
+        {
+            "name": "install_headers.py",
+            "type": "file",
+            "size": 1189
+        },
+        {
+            "name": "install_lib.py",
+            "type": "file",
+            "size": 8434
+        },
+        {
+            "name": "install_scripts.py",
+            "type": "file",
+            "size": 1936
+        },
+        {
+            "name": "py37compat.py",
+            "type": "file",
+            "size": 672
+        },
+        {
+            "name": "register.py",
+            "type": "file",
+            "size": 11765
+        },
+        {
+            "name": "sdist.py",
+            "type": "file",
+            "size": 19241
+        },
+        {
+            "name": "upload.py",
+            "type": "file",
+            "size": 7477
+        },
+        {
+            "name": "_framework_compat.py",
+            "type": "file",
+            "size": 1614
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 430
+        },
+        {
+            "name": "config.py",
+            "type": "file",
+            "size": 4920
+        },
+        {
+            "name": "core.py",
+            "type": "file",
+            "size": 9451
+        },
+        {
+            "name": "cygwinccompiler.py",
+            "type": "file",
+            "size": 12537
+        },
+        {
+            "name": "debug.py",
+            "type": "file",
+            "size": 139
+        },
+        {
+            "name": "dep_util.py",
+            "type": "file",
+            "size": 3423
+        },
+        {
+            "name": "dir_util.py",
+            "type": "file",
+            "size": 8082
+        },
+        {
+            "name": "dist.py",
+            "type": "file",
+            "size": 50186
+        },
+        {
+            "name": "errors.py",
+            "type": "file",
+            "size": 3589
+        },
+        {
+            "name": "extension.py",
+            "type": "file",
+            "size": 10270
+        },
+        {
+            "name": "fancy_getopt.py",
+            "type": "file",
+            "size": 17910
+        },
+        {
+            "name": "filelist.py",
+            "type": "file",
+            "size": 13713
+        },
+        {
+            "name": "file_util.py",
+            "type": "file",
+            "size": 8226
+        },
+        {
+            "name": "log.py",
+            "type": "file",
+            "size": 1972
+        },
+        {
+            "name": "msvc9compiler.py",
+            "type": "file",
+            "size": 30235
+        },
+        {
+            "name": "msvccompiler.py",
+            "type": "file",
+            "size": 23602
+        },
+        {
+            "name": "py38compat.py",
+            "type": "file",
+            "size": 217
+        },
+        {
+            "name": "py39compat.py",
+            "type": "file",
+            "size": 639
+        },
+        {
+            "name": "spawn.py",
+            "type": "file",
+            "size": 3517
+        },
+        {
+            "name": "sysconfig.py",
+            "type": "file",
+            "size": 18858
+        },
+        {
+            "name": "text_file.py",
+            "type": "file",
+            "size": 12096
+        },
+        {
+            "name": "unixccompiler.py",
+            "type": "file",
+            "size": 15641
+        },
+        {
+            "name": "util.py",
+            "type": "file",
+            "size": 18128
+        },
+        {
+            "name": "version.py",
+            "type": "file",
+            "size": 12952
+        },
+        {
+            "name": "versionpredicate.py",
+            "type": "file",
+            "size": 5248
+        },
+        {
+            "name": "_collections.py",
+            "type": "file",
+            "size": 1330
+        },
+        {
+            "name": "_functools.py",
+            "type": "file",
+            "size": 411
+        },
+        {
+            "name": "_macos_compat.py",
+            "type": "file",
+            "size": 239
+        },
+        {
+            "name": "_msvccompiler.py",
+            "type": "file",
+            "size": 19672
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 537
+        },
+        {
+            "name": "_entry_points.py",
+            "type": "file",
+            "size": 1972
+        },
+        {
+            "name": "_imp.py",
+            "type": "file",
+            "size": 2392
+        },
+        {
+            "name": "_importlib.py",
+            "type": "file",
+            "size": 1311
+        },
+        {
+            "name": "_itertools.py",
+            "type": "file",
+            "size": 675
+        },
+        {
+            "name": "_path.py",
+            "type": "file",
+            "size": 749
+        },
+        {
+            "name": "_reqs.py",
+            "type": "file",
+            "size": 501
+        },
+        {
+            "name": "_vendor",
+            "type": "directory",
+            "size": 839953
+        },
+        {
+            "name": "importlib_metadata",
+            "type": "directory",
+            "size": 42846
+        },
+        {
+            "name": "_adapters.py",
+            "type": "file",
+            "size": 1862
+        },
+        {
+            "name": "_collections.py",
+            "type": "file",
+            "size": 743
+        },
+        {
+            "name": "_compat.py",
+            "type": "file",
+            "size": 1828
+        },
+        {
+            "name": "_functools.py",
+            "type": "file",
+            "size": 2895
+        },
+        {
+            "name": "_itertools.py",
+            "type": "file",
+            "size": 2068
+        },
+        {
+            "name": "_meta.py",
+            "type": "file",
+            "size": 1154
+        },
+        {
+            "name": "_text.py",
+            "type": "file",
+            "size": 2166
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 30130
+        },
+        {
+            "name": "importlib_resources",
+            "type": "directory",
+            "size": 25123
+        },
+        {
+            "name": "abc.py",
+            "type": "file",
+            "size": 3886
+        },
+        {
+            "name": "readers.py",
+            "type": "file",
+            "size": 3566
+        },
+        {
+            "name": "simple.py",
+            "type": "file",
+            "size": 2836
+        },
+        {
+            "name": "_adapters.py",
+            "type": "file",
+            "size": 4504
+        },
+        {
+            "name": "_common.py",
+            "type": "file",
+            "size": 2741
+        },
+        {
+            "name": "_compat.py",
+            "type": "file",
+            "size": 2706
+        },
+        {
+            "name": "_itertools.py",
+            "type": "file",
+            "size": 884
+        },
+        {
+            "name": "_legacy.py",
+            "type": "file",
+            "size": 3494
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 506
+        },
+        {
+            "name": "jaraco",
+            "type": "directory",
+            "size": 34449
+        },
+        {
+            "name": "context.py",
+            "type": "file",
+            "size": 5420
+        },
+        {
+            "name": "functools.py",
+            "type": "file",
+            "size": 13512
+        },
+        {
+            "name": "text",
+            "type": "directory",
+            "size": 15517
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 15517
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "more_itertools",
+            "type": "directory",
+            "size": 134297
+        },
+        {
+            "name": "more.py",
+            "type": "file",
+            "size": 117959
+        },
+        {
+            "name": "recipes.py",
+            "type": "file",
+            "size": 16256
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 82
+        },
+        {
+            "name": "ordered_set.py",
+            "type": "file",
+            "size": 15130
+        },
+        {
+            "name": "packaging",
+            "type": "directory",
+            "size": 96322
+        },
+        {
+            "name": "markers.py",
+            "type": "file",
+            "size": 8493
+        },
+        {
+            "name": "requirements.py",
+            "type": "file",
+            "size": 4700
+        },
+        {
+            "name": "specifiers.py",
+            "type": "file",
+            "size": 30110
+        },
+        {
+            "name": "tags.py",
+            "type": "file",
+            "size": 15699
+        },
+        {
+            "name": "utils.py",
+            "type": "file",
+            "size": 4200
+        },
+        {
+            "name": "version.py",
+            "type": "file",
+            "size": 14665
+        },
+        {
+            "name": "_manylinux.py",
+            "type": "file",
+            "size": 11488
+        },
+        {
+            "name": "_musllinux.py",
+            "type": "file",
+            "size": 4378
+        },
+        {
+            "name": "_structures.py",
+            "type": "file",
+            "size": 1431
+        },
+        {
+            "name": "__about__.py",
+            "type": "file",
+            "size": 661
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 497
+        },
+        {
+            "name": "pyparsing",
+            "type": "directory",
+            "size": 369986
+        },
+        {
+            "name": "actions.py",
+            "type": "file",
+            "size": 6426
+        },
+        {
+            "name": "common.py",
+            "type": "file",
+            "size": 12936
+        },
+        {
+            "name": "core.py",
+            "type": "file",
+            "size": 213310
+        },
+        {
+            "name": "diagram",
+            "type": "directory",
+            "size": 23668
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 23668
+        },
+        {
+            "name": "exceptions.py",
+            "type": "file",
+            "size": 9023
+        },
+        {
+            "name": "helpers.py",
+            "type": "file",
+            "size": 39129
+        },
+        {
+            "name": "results.py",
+            "type": "file",
+            "size": 25341
+        },
+        {
+            "name": "testing.py",
+            "type": "file",
+            "size": 13402
+        },
+        {
+            "name": "unicode.py",
+            "type": "file",
+            "size": 10787
+        },
+        {
+            "name": "util.py",
+            "type": "file",
+            "size": 6805
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 9159
+        },
+        {
+            "name": "tomli",
+            "type": "directory",
+            "size": 26226
+        },
+        {
+            "name": "_parser.py",
+            "type": "file",
+            "size": 22633
+        },
+        {
+            "name": "_re.py",
+            "type": "file",
+            "size": 2943
+        },
+        {
+            "name": "_types.py",
+            "type": "file",
+            "size": 254
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 396
+        },
+        {
+            "name": "typing_extensions.py",
+            "type": "file",
+            "size": 87149
+        },
+        {
+            "name": "zipp.py",
+            "type": "file",
+            "size": 8425
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 8429
+        },
+        {
+            "name": "setuptools-65.5.1.dist-info",
+            "type": "directory",
+            "size": 45895
+        },
+        {
+            "name": "entry_points.txt",
+            "type": "file",
+            "size": 2740
+        },
+        {
+            "name": "INSTALLER",
+            "type": "file",
+            "size": 5
+        },
+        {
+            "name": "LICENSE",
+            "type": "file",
+            "size": 1050
+        },
+        {
+            "name": "METADATA",
+            "type": "file",
+            "size": 6311
+        },
+        {
+            "name": "RECORD",
+            "type": "file",
+            "size": 35656
+        },
+        {
+            "name": "top_level.txt",
+            "type": "file",
+            "size": 41
+        },
+        {
+            "name": "WHEEL",
+            "type": "file",
+            "size": 92
+        },
+        {
+            "name": "setuptools-65.5.1.virtualenv",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "wheel",
+            "type": "directory",
+            "size": 95910
+        },
+        {
+            "name": "bdist_wheel.py",
+            "type": "file",
+            "size": 19293
+        },
+        {
+            "name": "cli",
+            "type": "directory",
+            "size": 15853
+        },
+        {
+            "name": "convert.py",
+            "type": "file",
+            "size": 9427
+        },
+        {
+            "name": "pack.py",
+            "type": "file",
+            "size": 3383
+        },
+        {
+            "name": "unpack.py",
+            "type": "file",
+            "size": 659
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 2384
+        },
+        {
+            "name": "macosx_libfile.py",
+            "type": "file",
+            "size": 16145
+        },
+        {
+            "name": "metadata.py",
+            "type": "file",
+            "size": 3727
+        },
+        {
+            "name": "util.py",
+            "type": "file",
+            "size": 621
+        },
+        {
+            "name": "vendored",
+            "type": "directory",
+            "size": 31475
+        },
+        {
+            "name": "packaging",
+            "type": "directory",
+            "size": 31475
+        },
+        {
+            "name": "tags.py",
+            "type": "file",
+            "size": 15612
+        },
+        {
+            "name": "_manylinux.py",
+            "type": "file",
+            "size": 11489
+        },
+        {
+            "name": "_musllinux.py",
+            "type": "file",
+            "size": 4374
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "wheelfile.py",
+            "type": "file",
+            "size": 7536
+        },
+        {
+            "name": "_setuptools_logging.py",
+            "type": "file",
+            "size": 746
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 59
+        },
+        {
+            "name": "__main__.py",
+            "type": "file",
+            "size": 455
+        },
+        {
+            "name": "wheel-0.38.4.dist-info",
+            "type": "directory",
+            "size": 6262
+        },
+        {
+            "name": "entry_points.txt",
+            "type": "file",
+            "size": 107
+        },
+        {
+            "name": "INSTALLER",
+            "type": "file",
+            "size": 5
+        },
+        {
+            "name": "LICENSE.txt",
+            "type": "file",
+            "size": 1107
+        },
+        {
+            "name": "METADATA",
+            "type": "file",
+            "size": 2110
+        },
+        {
+            "name": "RECORD",
+            "type": "file",
+            "size": 2835
+        },
+        {
+            "name": "top_level.txt",
+            "type": "file",
+            "size": 6
+        },
+        {
+            "name": "WHEEL",
+            "type": "file",
+            "size": 92
+        },
+        {
+            "name": "wheel-0.38.4.virtualenv",
+            "type": "file",
+            "size": 0
+        },
+        {
+            "name": "_distutils_hack",
+            "type": "directory",
+            "size": 17336
+        },
+        {
+            "name": "override.py",
+            "type": "file",
+            "size": 44
+        },
+        {
+            "name": "__init__.py",
+            "type": "file",
+            "size": 6128
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 11164
+        },
+        {
+            "name": "__init__.cpython-311.pyc",
+            "type": "file",
+            "size": 11164
+        },
+        {
+            "name": "_virtualenv.pth",
+            "type": "file",
+            "size": 18
+        },
+        {
+            "name": "_virtualenv.py",
+            "type": "file",
+            "size": 5770
+        },
+        {
+            "name": "__pycache__",
+            "type": "directory",
+            "size": 6921
+        },
+        {
+            "name": "_virtualenv.cpython-311.pyc",
+            "type": "file",
+            "size": 6921
+        },
+        {
+            "name": "pyvenv.cfg",
+            "type": "file",
+            "size": 563
+        },
+        {
+            "name": "Scripts",
+            "type": "directory",
+            "size": 1410274
+        },
+        {
+            "name": "activate",
+            "type": "file",
+            "size": 2167
+        },
+        {
+            "name": "activate.bat",
+            "type": "file",
+            "size": 1020
+        },
+        {
+            "name": "activate.fish",
+            "type": "file",
+            "size": 3044
+        },
+        {
+            "name": "activate.nu",
+            "type": "file",
+            "size": 2607
+        },
+        {
+            "name": "Activate.ps1",
+            "type": "file",
+            "size": 1758
+        },
+        {
+            "name": "activate_this.py",
+            "type": "file",
+            "size": 1169
+        },
+        {
+            "name": "deactivate.bat",
+            "type": "file",
+            "size": 511
+        },
+        {
+            "name": "deactivate.nu",
+            "type": "file",
+            "size": 682
+        },
+        {
+            "name": "pip-3.11.exe",
+            "type": "file",
+            "size": 108422
+        },
+        {
+            "name": "pip.exe",
+            "type": "file",
+            "size": 108422
+        },
+        {
+            "name": "pip3.11.exe",
+            "type": "file",
+            "size": 108422
+        },
+        {
+            "name": "pip3.exe",
+            "type": "file",
+            "size": 108422
+        },
+        {
+            "name": "pydoc.bat",
+            "type": "file",
+            "size": 24
+        },
+        {
+            "name": "python.exe",
+            "type": "file",
+            "size": 270616
+        },
+        {
+            "name": "pythonw.exe",
+            "type": "file",
+            "size": 259352
+        },
+        {
+            "name": "wheel-3.11.exe",
+            "type": "file",
+            "size": 108409
+        },
+        {
+            "name": "wheel.exe",
+            "type": "file",
+            "size": 108409
+        },
+        {
+            "name": "wheel3.11.exe",
+            "type": "file",
+            "size": 108409
+        },
+        {
+            "name": "wheel3.exe",
+            "type": "file",
+            "size": 108409
+        }
+    ]
+}
